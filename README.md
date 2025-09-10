@@ -33,7 +33,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="reactnative logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
 </div>
