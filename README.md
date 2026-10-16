@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/GMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://docs.google.com/document/d/1krtOVO4e7_tqLC7amQ9yfzhhO1ho0pE5nwAHtNP941U/edit?usp=sharing">
+<a href="https://drive.google.com/file/d/14P0J3uIfKVBBDnd0KvQ-zZyNbggZP-Wi/view?usp=sharing">
 <img src="https://img.shields.io/badge/RESUME-1E293B?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a>
 
